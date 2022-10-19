@@ -1,13 +1,21 @@
 import logo from './logo.svg';
 import './App.css';
+import { useEffect, useState, useMemo, useCallback } from 'react';
 
 function App() {
+
+  const [food, setFood] = useState(2)
+
+  useEffect(() => {
+    setFood(2)
+  }, [])
+
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          UPDATE
+          KOTELTI
         </p>
         <a
           className="App-link"
