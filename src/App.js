@@ -18,7 +18,7 @@ function App() {
           KOTELTI
         </p>
         <button>
-          Gio 1
+          GX
         </button>
         <a
           className="App-link"
