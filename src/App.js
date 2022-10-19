@@ -17,6 +17,9 @@ function App() {
         <p>
           KOTELTI
         </p>
+        <button>
+          Gio 1
+        </button>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -25,6 +28,9 @@ function App() {
         >
           Learn React
         </a>
+        <div>
+          GIO <h1>2</h1>
+        </div>
       </header>
     </div>
   );
