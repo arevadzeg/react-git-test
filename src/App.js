@@ -17,6 +17,9 @@ function App() {
         <p>
           KOTELTI
         </p>
+        <button>
+          Gio 1
+        </button>
         <a
           className="App-link"
           href="https://reactjs.org"
