@@ -25,6 +25,9 @@ function App() {
         >
           Learn React
         </a>
+        <div>
+          GIO <h1>2</h1>
+        </div>
       </header>
     </div>
   );
